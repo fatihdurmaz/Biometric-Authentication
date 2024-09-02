@@ -1,4 +1,8 @@
 # Biometric Authentication with SwiftUI
+![Swift](https://img.shields.io/badge/Swift-5.9-orange.svg)
+![Platform](https://img.shields.io/badge/Platform-iOS%20-red.svg)
+![Platform](https://img.shields.io/badge/SwiftUI-4-green.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 This repository demonstrates how to implement biometric authentication (Face ID/Touch ID) in a SwiftUI application. It provides a step-by-step guide to integrate biometric authentication into your app, including setting up permissions, checking device capabilities, and handling the authentication process.
 
